@@ -1,0 +1,1 @@
+Linking is connected to navigation
