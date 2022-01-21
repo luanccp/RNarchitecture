@@ -1,5 +1,6 @@
 ## Main services
 
+### We should think in a better name
 SESSION
 - get available sessions
 - filter sessions
@@ -14,3 +15,8 @@ SESSION
 - schedule
 - rate a session
 - get participants
+
+
+
+### ideas (with Marek)
+pre-livecast (where we create, consume, and manage)
